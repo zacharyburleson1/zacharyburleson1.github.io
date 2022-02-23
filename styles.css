@@ -1,5 +1,5 @@
 body {
-    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Inter', sans-serif;
 }
 
 h1 {
@@ -12,5 +12,5 @@ h2 {
 }
 
 p {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
