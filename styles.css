@@ -1,5 +1,20 @@
 body {
     font-family: 'Inter', sans-serif;
+    background-color: #caf0f8;
+}
+
+#mainNavbar {
+    background-color: #48cae4;
+}
+
+#navbarText {
+    color: #03045e;
+    background-color: #00b4d8;
+    border: 2px purple solid;
+    border-radius: 10px;
+    margin: 0 10px;
+    padding: 5px 10px;
+    font-weight: 700;
 }
 
 h1 {
