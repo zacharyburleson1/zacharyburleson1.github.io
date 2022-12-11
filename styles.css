@@ -24,8 +24,32 @@ h1 {
 
 h2 {
     padding-top: 60px;
+    padding-bottom: 30px;
 }
 
 p {
     font-size: 1.5rem;
+}
+
+section {
+    padding-bottom: 200px;
+}
+
+#projectList li {
+    list-style-type: none;
+
+}
+
+#projectList img {
+    height: 200px;
+    width: 200px;
+}
+
+#projectListRow1 {
+    padding-bottom: 100px;
+}
+
+#projectList a {
+    font-size: 1.5rem;
+    font-weight: bold;
 }
