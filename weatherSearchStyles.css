@@ -196,6 +196,21 @@ body {
     height: 100px;
 }
 
+/* WHAT I LEARNED
+  -------------------------------------------------- */
+#whatILearned {
+    color: white;
+    font-size: 1.2em;
+}
+
+#whatILearned a {
+    color: violet;
+}
+
+#whatILearned a:hover {
+    color: red;
+    transition: color 500ms;
+}
 
 /* FOOTER
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
